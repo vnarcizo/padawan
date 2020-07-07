@@ -1,0 +1,28 @@
+.divInfo {
+	background-color: lightgrey;
+	width: 300px;
+	padding: 10px;
+	border: 1px solid #2542e7;
+	/* border: 15px dashed green; */
+	/* border: 15px dotted green; */
+	/* border: 15px double green; */
+	/* margin: 20px; */
+  }
+
+
+div {
+	padding: 100px;
+/*  
+	padding: 10px 20px 10px 20px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px; 
+*/
+	background-color: green;
+  }
+
+
+  span{
+	  text-decoration: underline;
+  }
